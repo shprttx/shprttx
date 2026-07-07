@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=shprot&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
-<h1 align="center">🦈 shprttx / open-source </h1>
+<h1 align="center">🦈 shprttx / shark bytes </h1>
 
 ###
 
@@ -39,12 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shprttx&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%">
-</p>
-
-###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shprttx/shprttx/main/trophy.svg" width="100%">
 </p>
 
 ###
