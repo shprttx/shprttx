@@ -1,5 +1,5 @@
 
-<h1 align="center">🦈 shprttx / python & web </h1>
+<h1 align="center">🕷️ shprttx / python & web </h1>
 
 ###
 
